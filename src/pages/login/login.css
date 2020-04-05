@@ -1,0 +1,47 @@
+.main{
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.ant-form{
+    width: 400px;
+    
+}
+.title{
+    font-size: 26px;
+    color: #000;
+    margin: 0 auto 60px auto;
+    text-align: center;
+    font-weight: 700;
+    width: 100%;
+}
+.ant-input{
+   /*  border: solid 1px #000; */
+    border-radius: 50px;
+}
+.ant-form-item{
+    margin-top: 35px;
+}
+.ant-input-affix-wrapper{
+   /*  border: solid 1px #000; */
+    border-radius: 50px;
+
+}
+.ant-btn-primary{
+    width: 335px;
+    margin-left: 65px;
+    background: #353535;
+    border-color: #353535;
+    border-radius: 50px;
+}
+.ant-btn-primary:hover{
+    background: #353535;
+    border-color: #353535;
+}
+.ant-form-item-label{
+    width: 65px;
+    /* font-weight: bold; */
+}
